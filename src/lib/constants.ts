@@ -1,0 +1,1 @@
+export const BASE_URL= "https://sparklehood-backend-1068c8193640.herokuapp.com"
