@@ -7,6 +7,10 @@ For setting up the backend please check the repository below
 ```
 https://github.com/SujalSharma-tech/sparklehood-backend
 ```
+### Live link
+```
+https://sparklehood.sujal.codes
+```
 
 ## Features
 - Interactive dashboard displaying AI safety incidents
